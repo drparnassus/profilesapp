@@ -25,7 +25,7 @@ function App() {
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
       </div>
-      <h2 style={{ marginTop: '1rem' }}>Created by Bracken Conner</h2>
+      <h2 style={{ marginTop: '1rem' }}>Bracken Conner followed the AWS tutorial and this is the result!</h2>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
